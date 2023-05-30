@@ -1,4 +1,4 @@
-title: website title
+title: Andrew Shin
 author:
   name: Andrew 
   email: andrewshin8@gmail.com
@@ -24,13 +24,13 @@ minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
-  date_format: "%b %-d, %Y"
+#   date_format: "%b %-d, %Y"
 
   # Generate social links in footer.
   #
-  social_links:
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+#   social_links:
+#     - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+#     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
