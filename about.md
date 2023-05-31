@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-this is the about page
+Hiii
+I just made this blog. I'm still updating, as of 2023.5.30. tankss
