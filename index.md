@@ -1,7 +1,5 @@
-yas slayy
-hello this is content 
-
 [post1](./posts/post1.md)
+[yas](./figure1_overall.pdf)
 
 
 #### Links:
