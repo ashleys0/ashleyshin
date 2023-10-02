@@ -6,7 +6,8 @@ Hi! I'm currently a postbac fellow at the National Library of Medicine (NLM), NI
 
 
 misc:   
-[post1](./posts/post1.md)  
 [yas](./figure1_overall.pdf)
+[post1](./posts/post1.md)  
+
 
 
