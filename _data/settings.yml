@@ -1,7 +1,7 @@
 menu:
 # - {name: 'people', url: '/people'}
 - {name: 'cv', url: '/cv.pdf'}
-- {name: 'papers', url: '/papers'}
+# - {name: 'papers', url: '/papers'}
 # - {name: 'courses', url: '/courses'}
 # - {name: 'contact', url: '/contact'}
 
