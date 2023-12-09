@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Hi! I'm currently a research fellow at the National Library of Medicine (NLM/NIH). My interests are information retrieval, bioNLP, scholarly document processing, AI for healthcare, HCI, and ethics. I hope to begin my PhD and do research internships in the next few years. I was awarded the NSF graduate fellowship – CSGrad4US – that provides funding and mentorship for PhD studies. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+
