@@ -1,7 +1,7 @@
 featured:
-- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/publications/bioasq2023.pdf'}
+- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/papers/bioasq2023.pdf'}
 
 
 index:
-- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/publications/bioasq2023.pdf'}
+- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/papers/bioasq2023.pdf'}
 
