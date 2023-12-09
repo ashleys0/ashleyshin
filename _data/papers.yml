@@ -1,7 +1,8 @@
 featured:
-- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/papers/bioasq2023.pdf'}
+- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: 'https://ceur-ws.org/Vol-3497/paper-016.pdf'}
+- {name: 'LADER: Log-Augmented DEnse Retrieval for Biomedical Literature Search. Qiao Jin, Ashley Shin, Zhiyong Lu. ACM SIGIR (SIG Information Retrieval) 2023.', url: 'https://arxiv.org/pdf/2304.04590.pdf'}
 
 
 index:
-- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: '/papers/bioasq2023.pdf'}
+- {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: 'https://ceur-ws.org/Vol-3497/paper-016.pdf'}
 
