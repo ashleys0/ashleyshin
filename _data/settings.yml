@@ -1,7 +1,7 @@
 menu:
 # - {name: 'people', url: '/people'}
-- {name: 'cv', url: '/cv'}
-- {name: 'papers', url: '/papers/1501.07274.pdf'}
+- {name: 'cv', url: '/cv.pdf'}
+- {name: 'papers', url: '/papers'}
 # - {name: 'courses', url: '/courses'}
 # - {name: 'contact', url: '/contact'}
 
@@ -20,7 +20,10 @@ social:
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'google_scholar', link: 'https://scholar.google.com/citations?user=ypu9btcAAAAJ&hl=en'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ypu9btcAAAAJ&hl=en'}
+- {icon: 'googscholar', link: 'https://scholar.google.com/citations?user=ypu9btcAAAAJ&hl=en'}
+- {icon: 'gscholar', link: 'https://scholar.google.com/citations?user=ypu9btcAAAAJ&hl=en'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=ypu9btcAAAAJ&hl=en'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-0531-9040'}
 
 contacts:
