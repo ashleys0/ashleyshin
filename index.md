@@ -3,8 +3,8 @@ layout: home
 title: "Home"
 ---
 
-Hi!! I'm currently a research fellow at the National Library of Medicine (NLM/NIH). My interests include information retrieval, embedding models, representation learning, scholarly document processing, recommender systems, biomedical natural language processing, AI for healthcare, machine learning, ethics, and HCI. I'm currently working on text embedding models for scientific document retrieval. I'll begin PhD studies in computer science this fall at UC San Diego. I've been awarded a NSF graduate fellowship – CSGrad4US – which provides funding for PhD studies in computational fields. I studied philosophy at UC Santa Barbara for undergrad. 
+Hi!! I'm a first year PhD student at UC San Diego, advised by Julian McAuley. My interests include information retrieval, recommender systems, embedding models, representation learning, scholarly document processing, biomedical natural language processing, AI for healthcare, machine learning, ethics, HCI. I'm currently working on dense retrieval and text embedding models for scientific document retrieval. I've been awarded a NSF graduate research fellowship.
 
-Feel free to reach me at ashleyhshin at gmail dot com :) 
+feel free to reach me at ashleyhshin at gmail dot com :) 
 
 
