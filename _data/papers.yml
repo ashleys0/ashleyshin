@@ -1,10 +1,12 @@
 featured:
+- {name: 'Generating Long Semantic IDs in Parallel for Recommendation. Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon, Abishek Santhanam, Wei Shao, Kaveh Hassani, NingYao, Julian McAuley. ACM KDD 2025 (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)', url: 'https://arxiv.org/pdf/2506.05781'}
 - {name: 'Harnessing PubMed User Query Logs for Post Hoc Explanations of Recommended Similar Articles. Ashley Shin, Qiao Jin, James Anibal, and Zhiyong Lu. Preprint, under review 2024.', url: 'https://arxiv.org/pdf/2402.03484.pdf'}
 - {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: 'https://ceur-ws.org/Vol-3497/paper-016.pdf'}
 - {name: 'LADER: Log-Augmented DEnse Retrieval for Biomedical Literature Search. Qiao Jin, Ashley Shin, Zhiyong Lu. ACM SIGIR (The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval) 2023.', url: 'https://arxiv.org/pdf/2304.04590.pdf'}
 
 
 index:
+- {name: 'Generating Long Semantic IDs in Parallel for Recommendation. Yupeng Hou, Jiacheng Li, Ashley Shin, Jinsung Jeon, Abishek Santhanam, Wei Shao, Kaveh Hassani, NingYao, Julian McAuley. ACM KDD 2025 (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)', url: 'https://arxiv.org/pdf/2506.05781'}
 - {name: 'Harnessing PubMed User Query Logs for Post Hoc Explanations of Recommended Similar Articles. Ashley Shin, Qiao Jin, James Anibal, and Zhiyong Lu. Preprint, under review 2024.', url: 'https://arxiv.org/pdf/2402.03484.pdf'}
 - {name: 'Multi-stage Literature Retrieval System Trained by PubMed Search Logs for Biomedical Question Answering. Ashley Shin, Qiao Jin, and Zhiyong Lu. CLEF (BioASQ workshop) 2023.', url: 'https://ceur-ws.org/Vol-3497/paper-016.pdf'}
 - {name: 'LADER: Log-Augmented DEnse Retrieval for Biomedical Literature Search. Qiao Jin, Ashley Shin, Zhiyong Lu. ACM SIGIR (The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval) 2023.', url: 'https://arxiv.org/pdf/2304.04590.pdf'}
